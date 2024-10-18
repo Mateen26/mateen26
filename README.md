@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, Mateen Rajput
 
-<!--
-**Mateen26/mateen26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Javascript | Typescript Developer**  
+GitHub: [abinth11](https://github.com/mateen26)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Nodejs**
+- 💬 Ask me about **Javascript, Typescript**
+- 📫 How to reach me: **mateenrajput55@gmail.com**
+- 📄 Know about my experiences by [clicking here](https://mateenrajput.vercel.app/)
+- ⚡ Fun fact: ☕️ Coffee is my preferred fuel. I believe in the magical power of the coffee bean.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- [LinkedIn]((https://www.linkedin.com/in/mateen-rajput-193a50188/))
+
+
+## Languages and Tools:
+- **Languages**: Javascript, Typescript
+- **Frontend**: React, Redux, Bootstrap, CSS, HTML, PUG, TailwindCSS, SCSS
+- **Backend**: Node.js
+- **Databases**: MongoDB, MySQL, Firebase, Supabase
+- **DevOps**: Docker
+- **Testing**: Cypress
+- **Others**: Webpack, Babel.js, D3.js, Chart.js, Postman, Figma, Sanity.io, Webflow
+
+## Personal Projects
+- **Portfolio**: [mateenrajput.vercel.app](https://mateenrajput.vercel.app/)
