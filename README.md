@@ -24,4 +24,6 @@ GitHub: [Mateen26](https://github.com/mateen26)
 ## Personal Projects
 - **Portfolio**: [mateenrajput.vercel.app](https://mateenrajput.vercel.app/)
 
-![Coding GIF](https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="Coding GIF" style="width: 100%; max-width: 600px;"/>
+</div>
