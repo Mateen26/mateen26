@@ -1,7 +1,7 @@
-# Hi 👋, Mateen Rajput
+# Hi 👋, Im Mateen Rajput
 
 **Javascript | Typescript Developer**  
-GitHub: [abinth11](https://github.com/mateen26)
+GitHub: [Mateen26](https://github.com/mateen26)
 
 - 🌱 I’m currently learning **Nodejs**
 - 💬 Ask me about **Javascript, Typescript**
